@@ -1,8 +1,8 @@
 .story {
     width: 75%;
     margin: 0 auto;
-    background-color: rgba($color-white, .6);
     box-shadow: 0 3rem 6rem rgba($color-black, .1);
+    background-color: rgba($color-white, .6);
     border-radius: 3px;
     padding: 6rem;
     padding-left: 9rem;
@@ -17,13 +17,14 @@
         shape-outside: circle(50% at 50% 50%);
         -webkit-clip-path: circle(50% at 50% 50%);
         clip-path: circle(50% at 50% 50%);
-        transform: translateX(-3rem) skewX(12deg);
+        transform: translateX(-3rem) skewX(13deg);
         position: relative;
     }
 
     &__img {
         height: 100%;
         transform: translateX(-4rem) scale(1.4);
+        backface-visibility: hidden;
         transition: all .5s;
     }
 
@@ -42,6 +43,7 @@
         text-align: center;
         opacity: 0;
         transition: all .5s;
+        backface-visibility: hidden;
     }
 
     &:hover &__caption {
