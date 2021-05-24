@@ -18,5 +18,3 @@ In the project directory, open another command prompt and you can run:
 This will open the website in browser.<br />
 
 The page will reload if you make edits.<br />
-
-For any queries contact anoop.4439@live.com
