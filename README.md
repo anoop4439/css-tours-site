@@ -17,6 +17,5 @@ In the project directory, open another command prompt and you can run:
 
 ### `live-server`
 
-This will open the website in browser.<br />
+This will open the website in browser and the page will reload if you make edits.<br />
 
-The page will reload if you make edits.<br />
