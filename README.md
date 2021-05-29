@@ -1,7 +1,7 @@
 
 ## AM Tours - Website
 
-Built by Anoop S Mohan for improving his sass & css skills. Design Copyright &copy; Jonas Schemdtmann. You are 100% allowed to reuse the design for both individual and commercial purpose, but credit the design copyright to Jonas Schemdtmann.
+Built by Anoop S Mohan for improving his sass & css skills. Design Copyright &copy; Jonas Schemdtmann.
 
 Clone the project, then in the project directory you can run :
 
