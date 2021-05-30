@@ -1,8 +1,6 @@
 
 ## AM Tours - Website
 
-Built by Anoop S Mohan for improving his sass & css skills. Design Copyright &copy; Jonas Schemdtmann.
-
 Clone the project, then in the project directory you can run :
 
 ### `npm install`
